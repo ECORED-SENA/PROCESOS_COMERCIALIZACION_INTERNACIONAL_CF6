@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="104.229" height="104.229" viewBox="0 0 104.229 104.229">
+  <defs>
+    <radialGradient id="radial-gradient" cx="0.5" cy="0.5" r="0.5" gradientTransform="matrix(0.926, 0.377, -0.377, 0.926, 0.226, -0.152)" gradientUnits="objectBoundingBox">
+      <stop offset="0.804" stop-color="#b2b2b1"/>
+      <stop offset="0.9" stop-color="#fff"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient" x1="0.923" y1="0.896" x2="0.054" y2="0.083" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#472ea6"/>
+      <stop offset="1" stop-color="#bb43b0"/>
+    </linearGradient>
+  </defs>
+  <g id="Grupo_124045" data-name="Grupo 124045" transform="translate(-800 -2199)">
+    <g id="Grupo_124025" data-name="Grupo 124025" transform="translate(800 2199)">
+      <circle id="Elipse_4292" data-name="Elipse 4292" cx="39.981" cy="39.981" r="39.981" transform="translate(0 30.182) rotate(-22.176)" fill="url(#radial-gradient)"/>
+      <circle id="Elipse_4293" data-name="Elipse 4293" cx="34.105" cy="34.105" r="34.105" transform="matrix(0.926, -0.378, 0.378, 0.926, 7.643, 33.442)" fill="#fff"/>
+      <circle id="Elipse_4294" data-name="Elipse 4294" cx="29.665" cy="29.665" r="29.665" transform="translate(22.449 22.449)" fill="url(#linear-gradient)"/>
+    </g>
+    <path id="Trazado_227824" data-name="Trazado 227824" d="M12.246,31H7.295V15.238L2.432,16.659v-3.75l9.36-3.237h.454Zm21.24-8.716a10.184,10.184,0,0,1-1.941,6.665,6.707,6.707,0,0,1-5.471,2.344,6.743,6.743,0,0,1-5.508-2.358,10.168,10.168,0,0,1-1.948-6.65v-3.9a10.184,10.184,0,0,1,1.941-6.665,6.724,6.724,0,0,1,5.486-2.344,6.726,6.726,0,0,1,5.493,2.358A10.193,10.193,0,0,1,33.486,18.4ZM28.55,17.758a7.607,7.607,0,0,0-.6-3.435,2.008,2.008,0,0,0-1.9-1.135,1.96,1.96,0,0,0-1.853,1.055,7.166,7.166,0,0,0-.623,3.193v5.449a7.664,7.664,0,0,0,.6,3.494,2.015,2.015,0,0,0,1.9,1.106,1.988,1.988,0,0,0,1.86-1.077,7.317,7.317,0,0,0,.615-3.376Z" transform="translate(833.713 2230.143)" fill="#fff"/>
+  </g>
+</svg>
