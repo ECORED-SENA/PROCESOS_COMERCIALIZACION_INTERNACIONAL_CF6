@@ -31,10 +31,12 @@
             h6.text-center.mt-5 Régimen de prohibida importación
 
     Separador
-
+    
     #t_3_1.titulo-segundo
       .h4 3.1 Régimen de licencia previa
-
+    
+    p.mb-5 Acto administrativo mediante el cual se otorga autorización por parte del Gobierno Nacional a ciertas mercancías para la importación al territorio aduanero nacional.  Las importaciones sometidas a este régimen, según el artículo 14 del Decreto 925 de 2013, son: 
+    
     .row.mb-5.fondo-8
         .col-lg-6.mb-5.mb-lg-0 
             img.my-3(src="@/assets/curso/images/tema3/img_1.svg", alt="", style="width:400px; display:block; margin:0 auto;")

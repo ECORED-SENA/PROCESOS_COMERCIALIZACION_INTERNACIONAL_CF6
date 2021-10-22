@@ -7,6 +7,10 @@
         span 4
       h1 Modalidades de importación en Colombia
     
+    p.mb-3 Se refieren a las diferentes formas que dispone el régimen de aduanas para declarar la mercancía que ingresa al territorio nacional. Por tal razón, es de vital importancia identificar cada uno de sus requisitos y características, para determinar cuál se ajusta más a las necesidades del comprador y del proveedor en el exterior. 
+    
+    p.mb-5 Las modalidades de importación en Colombia son: 
+
     .row.justify-content-center.align-items-center.mb-5
       .col-12.lg-6.mb-5.mb-lg-0
         .jumbotron-2

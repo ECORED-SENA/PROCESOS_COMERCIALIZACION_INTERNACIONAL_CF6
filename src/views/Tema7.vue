@@ -17,7 +17,8 @@
 
     .row.justify-content-center.align-items-center.p-5
       .col-12
-        img(src='@/assets/curso/images/tema7/img_1.svg' alt="", style="width:900px; display:block; margin:auto;")
+          figure
+            img(src='@/assets/curso/images/tema7/img_1.svg' alt="", style="width:1000px; display:block; margin:auto;")
 
 
 

@@ -32,6 +32,7 @@
         img(src='@/assets/curso/images/tema1/img_2.svg' alt="", style="width:400px; display:block; margin:auto 0;")
       .col-lg-6.mb-3.mb-lg-0
         img(src='@/assets/curso/images/tema1/ico_1.svg' alt="", style="width:400px; display:block; margin:auto 0;")
+        img(src='@/assets/curso/images/tema1/ico_11.svg' alt="", style="width:400px; display:block; margin:auto 0;")
         img(src='@/assets/curso/images/tema1/ico_3.svg' alt="", style="width:400px; display:block; margin:auto 0;")
         img(src='@/assets/curso/images/tema1/ico_4.svg' alt="", style="width:400px; display:block; margin:auto 0;")
         img(src='@/assets/curso/images/tema1/ico_5.svg' alt="", style="width:400px; display:block; margin:auto 0;")

@@ -13,7 +13,7 @@
       .col-lg-6.mb-5.mb-lg-0
         img(src='@/assets/curso/images/tema8/img_1.svg' alt="", style="width:900px; display:block; margin:auto;")
       .col-lg-6.mb-5.mb-lg-0
-        LineaTiempoD.color-secundario
+        LineaTiempoD.color-line-time.p-4
           p.text-small(numero="2020" titulo="Decreto 285 de 2020") "Por el cual se establecen las disposiciones que rigen los Sistemas Especiales de Importación -Exportación y se derogan los Decretos 2331 de 2001, 2099 y 2100 de 2008".
           
           p.text-small(numero="2016" titulo="Decreto 390 de 2016") "Por la cual se establece la regulación aduanera".

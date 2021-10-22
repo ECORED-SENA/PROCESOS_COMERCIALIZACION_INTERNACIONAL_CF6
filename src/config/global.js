@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Importación de bienes y servicios',
     descripcionCurso:
-      'Los procesos de comercialización internacional exigen que las empresas sean más competitivas y desarrollen estrategias que permitan estar a la vanguardia con tendencias y gustos para los clientes. Por consiguiente, es necesario plantear un plan de mercadeo que permita llevar a cabo el análisis del entorno y estructurar alternativas para satisfacer las necesidades del cliente, así como un plan de acción correspondiente a las características de la organización.',
+      'Las transacciones internacionales, como las importaciones, juegan un papel primordial en la posición competitiva y comparativa de los países. <br>Colombia no es ajeno a estos procesos. La existencia de centenas de pymes que desean internacionalizarse exige que el talento humano se encuentre altamente capacitado en estas temáticas y procesos. En el presente material de formación, logrará conocer el proceso de importación de bienes, sus etapas, modalidades, normativa y beneficios.',
     imagenBannerPrincipal: require('@/assets/curso/images/header/banner-principal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/images/header/fondo-banner-principal.png'),
   },
@@ -23,21 +23,21 @@ export default {
         nombreRuta: 'tema1',
         icono: 'far fa-file-alt',
         numero: '1',
-        titulo: 'Componentes',
+        titulo: 'Proceso de importación de bienes',
         desarrolloContenidos: true,
       },
       {
         nombreRuta: 'tema2',
         icono: 'far fa-file-alt',
         numero: '2',
-        titulo: 'Producción Audiovisual',
+        titulo: 'Pasos para importar en Colombia ',
         desarrolloContenidos: true,
       },
       {
         nombreRuta: 'tema3',
         icono: 'far fa-file-alt',
         numero: '3',
-        titulo: 'Fundamentación Textil',
+        titulo: 'Regímenes de importación',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -197,57 +197,57 @@ export default {
   ],
   glosario: [
     {
-      termino: 'Agente de aduanas:',
+      termino: 'Agente de aduanas',
       significado:
         'Persona jurídica autorizada por la Dirección de Impuestos y Aduanas Nacionales para ejercer actividades auxiliares de la función pública aduanera de naturaleza mercantil y de servicio, orientada a garantizar que los usuarios de comercio exterior que utilicen sus servicios cumplan con las normas legales existentes en materia de importación, exportación y tránsito aduanero y cualquier operación o procedimiento aduanero inherente a dichas actividades.',
     },
     {
-      termino: 'Bienes:',
+      termino: 'Bienes',
       significado:
         'Conjunto de propiedades o riquezas que pertenecen a una persona o grupo',
     },
     {
-      termino: 'Bienes de capital:',
+      termino: 'Bienes de capital',
       significado:
         'Bienes que forman parte del patrimonio de una compañía. Asimismo, permiten producir un bien de consumo que se venderá al público.',
     },
     {
-      termino: 'Bien de consumo:',
+      termino: 'Bien de consumo',
       significado:
         'Un bien de consumo es la mercancía final en un proceso de producción. Así, satisface las necesidades de las personas de manera directa..',
     },
     {
-      termino: 'Bien intermedio:',
+      termino: 'Bien intermedio',
       significado:
         'bien que se utiliza para producir otros bienes (ejemplo: materias primas). Su uso determina si es un bien intermedio o de consumo.',
     },
     {
-      termino: 'Declaración de cambio:',
+      termino: 'Declaración de cambio',
       significado:
         'Instrumento legal por el cual un residente en el país, persona nacional o jurídica, está obligado a informar a la autoridad cambiaria, Banco de la República, una operación de cambio, a través de los intermediarios del mercado cambiario, quienes son responsables del procesamiento de la información consignada en ella.',
     },
     {
-      termino: 'Divisas:',
+      termino: 'Divisas',
       significado:
         'Toda moneda extranjera, es decir, monedas oficiales distintas de la moneda legal en el propio país.',
     },
     {
-      termino: 'Insumos:',
+      termino: 'Insumos',
       significado:
         'Toda aquella cosa susceptible de dar servicio y paliar necesidades del ser humano, es decir, hacen referencia a todas las materias primas que son utilizadas para producir nuevos elementos.',
     },
     {
-      termino: 'Mandato aduanero:',
+      termino: 'Mandato aduanero',
       significado:
         'Este convenio se encuentra definido en el artículo 1262 del Código de Comercio como el contrato por el cual una parte se obliga a celebrar o ejecutar uno o más actos de comercio por cuenta de otra. El mandato puede ser con o sin representación.',
     },
     {
-      termino: 'Materias primas:',
+      termino: 'Materias primas',
       significado:
         'Una materia prima es todo bien que es transformado durante un proceso de producción hasta convertirse en un bien de consumo.',
     },
     {
-      termino: 'Zona Franca:',
+      termino: 'Zona Franca',
       significado:
         'Territorio caracterizado por contar con una serie de ventajas de tipo legislativo y económico que promueven el desarrollo de actividades de comercio exterior.',
     },
@@ -261,7 +261,8 @@ export default {
     {
       texto: 'Trámites para importar y exportar servicios',
       tipo: 'Presentación',
-      descarga: '/downloads/ANEXO_2_PASOS_PARA_ESPORTAR_E_IMPORTAR_SERVICIOS',
+      descarga:
+        '/downloads/ANEXO_2_PASOS_PARA_ESPORTAR_E_IMPORTAR_SERVICIOS.pdf',
     },
   ],
   creditos: {
@@ -281,11 +282,11 @@ export default {
       },
       {
         nombre: 'Alejandro Acevedo',
-        cargo: 'Experto temático',
+        cargo: 'Experta temático',
         centro: 'Centro de Comercio - Regional Antioquia',
       },
       {
-        nombre: 'Ana Catalina Córdoba',
+        nombre: 'Ana Catalina Córdoba Sus',
         cargo: 'Revisora Metodológica y Pedagógica',
         centro:
           'Centro para la Industria de la Comunicación Gráfica - Regional Distrito Capital',
@@ -337,13 +338,23 @@ export default {
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Yenny Patricia Ulloa Villamizar',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
     ],
     gestoresRepositorio: [
+      {
+        nombre: 'Alvaro Andrés Angarita Ramirez',
+        cargo: 'Validación y vinculación en plataforma LMS',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
+      },
+      {
+        nombre: 'Daniel Felipe Varón Molina',
+        cargo: 'Validación y vinculación en plataforma LMS',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
+      },
       {
         nombre: 'Milady Tatiana Villamil Castellanos',
         cargo: 'Validación y vinculación en plataforma LMS',

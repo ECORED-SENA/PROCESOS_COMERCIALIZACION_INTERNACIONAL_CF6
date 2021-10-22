@@ -7,9 +7,9 @@
         span 6
       h1 Sanciones e infracciones
 
-    p.mb-3 El Decreto 390 de 2016, instrumento que fomenta también la promoción del comercio exterior, contempla la siguiente clasificación de las sanciones e infracciones: 
+    p.mb-5 El Decreto 390 de 2016, instrumento que fomenta también la promoción del comercio exterior, contempla la siguiente clasificación de las sanciones e infracciones: 
 
-    .row.justify-content-center.align-items-center.p-5.mb-3
+    .row.justify-content-center.align-items-center.mb-5
       .col-12
         img(src='@/assets/curso/images/tema6/img_1.svg' alt="", style="width:1000px; display:block; margin:auto;")
     
@@ -17,15 +17,15 @@
 
     p.mb-3 A continuación, se presentan las sanciones e infracciones tanto de los operadores de comercio exterior como las de los declarantes, importadores y exportadores, según la normativa aduanera, con sus respectivas multas: 
 
-    p.mb-3 Conozca las <b>infracciones de los operadores de comercio exterior - Artículo 527 del Decreto 390/2016:</b>
+    p Conozca las <b>infracciones de los operadores de comercio exterior - Artículo 527 del Decreto 390/2016:</b>
 
-    .row.justify-content-center.align-items-center.p-5.mb-3
+    .row.justify-content-center.align-items-center
       .col-12
-        img(src='@/assets/curso/images/tema6/img_2.svg' alt="", style="width:900px; display:block; margin:auto;")
+        img(src='@/assets/curso/images/tema6/img_2.svg' alt="", style="width:1000px; display:block; margin:auto;")
 
     p.mb-3 Ahora, un análisis de las infracciones de los declarantes, importadores y exportadores- Artículo 528 del decreto 390/2016 
 
-    .row.justify-content-center.align-items-center.p-5.mb-5
+    .row.justify-content-center.align-items-center.mb-3
       .col-12
         img(src='@/assets/curso/images/tema6/img_3.svg' alt="", style="width:900px; display:block; margin:auto;")
 
