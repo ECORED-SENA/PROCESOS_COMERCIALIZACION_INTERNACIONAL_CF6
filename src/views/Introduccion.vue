@@ -16,9 +16,9 @@
     
     p.mb-5 Es por esto que se hace necesario conocer todo lo relacionado con el proceso de importación, que, mediante el presente material, se desarrollará de la siguiente manera:  
 
-    .row.justify-content-center.align-items-center.p-5.mb-5
+    .row.justify-content-center.align-items-center
       .col-12
-        img(src='@/assets/curso/images/tema1/intro.svg' alt="", style="width:900px; display:block; margin:auto;")
+        img(src='@/assets/curso/images/tema1/intro.svg' alt="", style="width:1000px; display:block; margin:auto;")
         
     p Para la elaboración de este componente, se abordaron varios autores conocidos en importación de bienes y servicios, de quienes se han citado y referenciado conceptos y ejemplos para los fines educativos de esta materia, en el entendido de que el conocimiento es social y, por lo tanto, es para ser usado por quienes necesitan adquirirlo. Se espera que este documento sea útil para todos aquellos, aprendices y lectores en general, que estén interesados en acercarse a asuntos básicos de la comercialización internacional.
 
