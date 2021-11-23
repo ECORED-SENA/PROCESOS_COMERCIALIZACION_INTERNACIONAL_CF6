@@ -11,9 +11,8 @@
     
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video: Leyenda del video
-    
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/vB1iiDYRDlQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        
     p.mb-5 Es por esto que se hace necesario conocer todo lo relacionado con el proceso de importación, que, mediante el presente material, se desarrollará de la siguiente manera:  
 
     .row.justify-content-center.align-items-center
