@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="104.229" height="104.229" viewBox="0 0 104.229 104.229">
+  <defs>
+    <radialGradient id="radial-gradient" cx="0.5" cy="0.5" r="0.5" gradientTransform="matrix(0.926, 0.377, -0.377, 0.926, 0.226, -0.152)" gradientUnits="objectBoundingBox">
+      <stop offset="0.804" stop-color="#b2b2b1"/>
+      <stop offset="0.9" stop-color="#fff"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient" x1="0.923" y1="0.896" x2="0.054" y2="0.083" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#472ea6"/>
+      <stop offset="1" stop-color="#bb43b0"/>
+    </linearGradient>
+  </defs>
+  <g id="Grupo_124055" data-name="Grupo 124055" transform="translate(-800 -2424)">
+    <circle id="Elipse_4292" data-name="Elipse 4292" cx="39.981" cy="39.981" r="39.981" transform="translate(800 2454.182) rotate(-22.176)" fill="url(#radial-gradient)"/>
+    <g id="Grupo_124053" data-name="Grupo 124053">
+      <g id="Grupo_124049" data-name="Grupo 124049">
+        <g id="Grupo_124052" data-name="Grupo 124052">
+          <circle id="Elipse_4293" data-name="Elipse 4293" cx="34.105" cy="34.105" r="34.105" transform="matrix(0.926, -0.378, 0.378, 0.926, 807.643, 2457.441)" fill="#fff"/>
+          <circle id="Elipse_4294" data-name="Elipse 4294" cx="29.665" cy="29.665" r="29.665" transform="translate(822.449 2446.449)" fill="url(#linear-gradient)"/>
+          <path id="Trazado_227826" data-name="Trazado 227826" d="M12.246,31H7.295V15.238L2.432,16.659v-3.75l9.36-3.237h.454ZM33.56,31H18.677V27.777l6.855-7.207q2.534-2.886,2.534-4.585a3.189,3.189,0,0,0-.6-2.095,2.144,2.144,0,0,0-1.743-.718,2.171,2.171,0,0,0-1.831.959,3.943,3.943,0,0,0-.7,2.4H18.237a7,7,0,0,1,.981-3.625,6.882,6.882,0,0,1,2.725-2.6,8.094,8.094,0,0,1,3.9-.937,7.962,7.962,0,0,1,5.325,1.6,5.7,5.7,0,0,1,1.868,4.585A6.658,6.658,0,0,1,32.563,18a10.76,10.76,0,0,1-1.458,2.5,36.715,36.715,0,0,1-3.186,3.508l-2.754,3.179H33.56Z" transform="translate(833.713 2454)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

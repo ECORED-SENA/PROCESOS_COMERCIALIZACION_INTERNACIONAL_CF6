@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1240" height="200.556" viewBox="0 0 1240 200.556">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="1240" height="200.556" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Cuadrícula_de_repetición_8" data-name="Cuadrícula de repetición 8" clip-path="url(#clip-path)">
+    <g id="Grupo_124061" data-name="Grupo 124061" transform="translate(-180.287 -1348.444)">
+      <path id="Trazado_124456" data-name="Trazado 124456" d="M965.205-1517.632v-162.8c-138.228-15.229-272.818-27.752-412.16-27.752-323.034,0-502.687,102.416-827.84,105.947v84.609a10,10,0,0,0,10,10h1220A10,10,0,0,0,965.205-1517.632Z" transform="translate(455.082 3056.632)" fill="#e4ddfb" style="isolation: isolate"/>
+    </g>
+  </g>
+</svg>
